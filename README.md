@@ -4,8 +4,6 @@ For steps on how to work with this repository [please see here](https://docs.lab
 
 # Citrics
 
-You can find the deployed project at [a.citrics.dev](https://a.citrics.dev/).
-
 <p align='center'>
 <img width="90%" src='./.github/CitricsEndLabs.gif' alt='Gif moving image of a preview of the citircs website at the end of Labs26'/>
 </p>
